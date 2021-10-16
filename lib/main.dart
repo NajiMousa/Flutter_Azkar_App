@@ -28,6 +28,7 @@ class _MyAppState extends State<MyApp> {
       supportedLocales: const [                // اللغات المدعومة
         Locale('ar'),                        // فقط العربية
         Locale('en'),
+        //jjjjjjjjjjjjjjjjjjjjjjjjjjjjj
       ],
       locale: const Locale('ar'),              // بتحدد اللغة اللي يستخدمها بغض النظر عن لغة الجهاز
       initialRoute: '/launch_screen',
